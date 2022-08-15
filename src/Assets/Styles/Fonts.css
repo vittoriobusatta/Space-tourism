@@ -1,8 +1,31 @@
-/* @font-face {
-  font-family: "";
-  src: url("../Fonts/") format("woff"), 
-  url("../Fonts/") format("truetype");
+@font-face {
+  font-family: "Bellefair Regular";
+  src: url("../Fonts/Bellefair/Bellefair-Regular.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
   text-rendering: optimizeLegibility;
-} */
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: url("../Fonts/Barlow/Barlow-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: "Barlow Regular";
+  src: url("../Fonts/barlow-condensed/BarlowCondensed-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: "Barlow Bold";
+  src: url("../Fonts/barlow-condensed/BarlowCondensed-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
